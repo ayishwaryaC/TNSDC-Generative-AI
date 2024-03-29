@@ -8,13 +8,13 @@ This repository contains code for training and using a Generative Adversarial Ne
 
 Requirements:
 
-Google account (for accessing Google Colab)
-Internet connection
-Basic knowledge of Python and TensorFlow
-Python 3.x
-TensorFlow (>=2.0)
-NumPy
-Matplotlib
+1.Google account (for accessing Google Colab)
+2.Internet connection
+3.Basic knowledge of Python and TensorFlow
+4.Python 3.x
+5.TensorFlow (>=2.0)
+6.NumPy
+7.Matplotlib
 
 Dataset: 
 
