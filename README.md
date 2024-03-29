@@ -18,9 +18,9 @@ Dataset:
 The dataset used for training the GAN consists of handwritten characters. You can use any dataset containing handwritten characters, such as MNIST or custom datasets. If you're using a custom dataset, make sure to upload it to your Google Drive and adjust the file paths accordingly.
 
 Usage:
-Training:Open and execute the train.ipynb notebook to train the GAN model. Follow the instructions provided in the notebook to configure the training process.
-Generating Handwritten Characters:Once the model is trained, open and execute the generate.ipynb notebook to generate handwritten characters using the trained model.
-Testing and Evaluation:You can evaluate the quality of generated images using different evaluation metrics and visualize the results using the provided notebooks.
+Training : Open and execute the train.ipynb notebook to train the GAN model. Follow the instructions provided in the notebook to configure the training process.
+Generating Handwritten Characters : Once the model is trained, open and execute the generate.ipynb notebook to generate handwritten characters using the trained model.
+Testing and Evaluation : You can evaluate the quality of generated images using different evaluation metrics and visualize the results using the provided notebooks.
 
 Model Architecture:
 The GAN model consists of a generator network and a discriminator network. The generator generates realistic-looking handwritten characters, while the discriminator distinguishes between real and generated handwritten characters.
